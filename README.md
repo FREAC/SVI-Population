@@ -89,35 +89,6 @@ The script creates:
    - 0.50 - 0.75: High vulnerability
    - > 0.75: Very high vulnerability
 
-## CDC SVI Themes
-
-### Theme 1: Socioeconomic Status
-
-- Below poverty
-- Unemployed
-- Income per capita
-- No high school diploma
-
-### Theme 2: Household Composition & Disability
-
-- Aged 65 or older
-- Aged 17 or younger
-- Civilian with a disability
-- Single-parent households
-
-### Theme 3: Minority Status & Language
-
-- Minority population
-- Limited English proficiency
-
-### Theme 4: Housing Type & Transportation
-
-- Multi-unit structures
-- Mobile homes
-- Crowding
-- No vehicle
-- Group quarters
-
 ## Coordinate System
 
 - **Projection**: WGS 1984 Web Mercator Auxiliary Sphere
